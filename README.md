@@ -1,3 +1,3 @@
-I like building things and fixing things, especially for libraries and open-source softwares.
+I like open-source.
 
 I'm open for job opportunities. 😇
