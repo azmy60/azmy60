@@ -1,3 +1,5 @@
-I like open-source.
+I love open-source.
 
-I'm open for job opportunities. 😇
+Dev at [Beekeeper Studio](https://github.com/beekeeper-studio/).
+
+Here's some cookies 🍪🍪🍪
