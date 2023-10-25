@@ -1,7 +1,7 @@
-I love open-source.
+I do codes.
 
-Dev at [Beekeeper Studio](https://github.com/beekeeper-studio/).
+I love open-source.
 
 Stuck in nvim.
 
-Here's some cookies 🍪🍪🍪...
+Dev at [Beekeeper Studio](https://github.com/beekeeper-studio/).
