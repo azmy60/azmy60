@@ -1,7 +1,3 @@
-I do codes.
-
-I love open-source.
-
-Stuck in nvim.
+I love open-source and I do codes.
 
 Dev at [Beekeeper Studio](https://github.com/beekeeper-studio/).
